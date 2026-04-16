@@ -1,0 +1,59 @@
+id_quarto,id_hotel,tipo_quarto,capacidade,valor_base,andar,vista
+Q001,1,Standard,2,320.00,1,Jardim
+Q002,1,Standard,2,320.00,2,Jardim
+Q003,1,Standart,2,320.00,3,Jardim
+Q004,1,STANDARD,2,,4,Jardim
+Q005,1,Superior,3,480.00,5,Mar
+Q006,1,Superior,3,480.00,6,Mar
+Q007,1,superior,3,480.00,7,Mar
+Q008,1,Luxo,4,750.00,8,Mar
+Q009,1,Luxo,4,750.00,9,Mar
+Q010,1,Suite,0,1200.00,10,Panorâmica
+Q011,1,Suite,-1,1200.00,11,Panorâmica
+Q012,1,Suite Master,6,2200.00,12,Panorâmica
+Q013,2,Standard,2,280.00,1,Jardim
+Q014,2,Standard,2,280.00,2,Jardim
+Q015,2,standard,2,280.00,3,Jardim
+Q016,2,Superior,3,420.00,4,Piscina
+Q017,2,Superior,3,420.00,5,Piscina
+Q018,2,SUPERIOR,3,,6,Piscina
+Q019,2,Luxo,4,680.00,7,Mar
+Q020,2,Luxo,4,680.00,8,Mar
+Q021,2,Suite,5,1100.00,9,Panorâmica
+Q022,2,Suite,5,1100.00,10,Panorâmica
+Q023,2,Suite Master,6,1950.00,11,Panorâmica
+Q024,3,Standard,2,260.00,1,Jardim
+Q025,3,Standard,2,260.00,2,Jardim
+Q026,3,Standart,2,260.00,3,Jardim
+Q027,3,Superior,3,400.00,4,Piscina
+Q028,3,Superior,3,400.00,5,Piscina
+Q029,3,SUPERIOR,3,400.00,6,Piscina
+Q030,3,Luxo,4,640.00,7,Mar
+Q031,3,Luxo,4,640.00,8,Mar
+Q032,3,Suite,5,1050.00,9,Panorâmica
+Q033,3,Suite,5,1050.00,10,Panorâmica
+Q034,3,Suite Master,6,1900.00,11,Panorâmica
+Q035,4,Standard,2,350.00,1,Cidade
+Q036,4,Standard,2,350.00,2,Cidade
+Q037,4,standard,2,350.00,3,Cidade
+Q038,4,STANDARD,2,,4,Cidade
+Q039,4,Superior,3,520.00,5,Cidade
+Q040,4,Superior,3,520.00,6,Cidade
+Q041,4,Luxo,4,820.00,7,Mar
+Q042,4,Luxo,4,820.00,8,Mar
+Q043,4,Suite,5,1350.00,9,Panorâmica
+Q044,4,Suite Master,6,2500.00,10,Panorâmica
+Q045,5,Standard,2,420.00,1,Cidade
+Q046,5,Standard,2,420.00,2,Cidade
+Q047,5,Standard,2,420.00,3,Cidade
+Q048,5,STANDART,2,420.00,4,Cidade
+Q049,5,Superior,3,620.00,5,Cidade
+Q050,5,Superior,3,620.00,6,Cidade
+Q051,5,superior,3,,7,Cidade
+Q052,5,Luxo,4,950.00,8,Cidade
+Q053,5,Luxo,4,950.00,9,Cidade
+Q054,5,Luxo,-2,950.00,10,Cidade
+Q055,5,Suite,5,1600.00,11,Panorâmica
+Q056,5,Suite,5,1600.00,12,Panorâmica
+Q057,5,Suite Master,6,2800.00,15,Panorâmica
+Q058,9,Standard,2,300.00,1,Jardim

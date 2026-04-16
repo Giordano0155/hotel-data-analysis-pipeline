@@ -1,0 +1,6 @@
+id_hotel,nome_hotel,cidade,estado,categoria,n_quartos
+1,Nara Fortaleza,Fortaleza,CE,5 estrelas,120
+2,Nara Recife,Recife,PE,4 estrelas,95
+3,Nara Salvador,Salvador,BA,4 estrelas,
+4,Nara Rio de Janeiro,Rio De Janeiro,RJ,3 estrelas,80
+5,Nara São Paulo,Sao Paulo,SP,6 estrelas,150

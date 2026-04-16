@@ -1,0 +1,17 @@
+# ambiente virtual
+venv/
+env/
+
+# cache Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ou se quiser manter estrutura:
+# data/
+# outputs/
+
+# sistema
+.DS_Store

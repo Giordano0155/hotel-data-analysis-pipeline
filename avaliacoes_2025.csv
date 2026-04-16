@@ -1,0 +1,228 @@
+id_avaliacao,id_reserva,nota_geral,nota_limpeza,nota_atendimento,nota_custo_beneficio,comentario,data_avaliacao
+2000,1293,7.4,7.2,8.0,9.8,,2025-03-12
+2001,1279,6.8,8.9,10.0,9.1,Staff prestativo e atencioso.,2025-08-29
+2002,1149,6.7,7.0,9.5,9.6,Staff prestativo e atencioso.,2025-04-21
+2003,1440,8.0,8.7,7.1,6.4,Superou as expectativas.,2025-10-28
+2004,1132,9.3,8.6,6.3,9.6,Superou as expectativas.,2025-07-29
+2005,1170,-1,9.5,7.6,6.3,Hotel muito bem localizado.,2025-05-11
+2006,1180,6.6,7.6,5.6,7.0,Superou as expectativas.,2025-02-05
+2007,1102,7.0,8.8,8.1,7.9,"Ótima experiência, voltarei!",2025-06-26
+2008,1068,6.9,6.7,6.1,9.6,Staff prestativo e atencioso.,2025-04-15
+2009,1181,5.7,7.8,8.0,6.8,Superou as expectativas.,2025-10-27
+2010,1281,8.6,7.4,"9,5",6.0,"Atendimento excelente, quarto limpo.",2025-08-06
+2011,1393,6.7,7.1,8.0,6.4,"Pequenos detalhes a melhorar, mas gostei.",2025-02-12
+2012,1398,8.7,8.4,9.2,5.9,Hotel muito bem localizado.,2025-09-29
+2013,1069,6.1,6.1,8.0,5.6,"Pequenos detalhes a melhorar, mas gostei.",2025-06-27
+2014,1464,7.2,7.1,9.0,6.5,,2025-10-26
+2015,1367,6.2,9.0,9.5,9.1,Staff prestativo e atencioso.,2025-03-04
+2016,1496,6.9,8.8,6.2,8.4,"Pequenos detalhes a melhorar, mas gostei.",2025-07-20
+2017,1309,9.7,6.5,9.6,9.1,Café da manhã variado e delicioso.,2025-02-09
+2018,1450,7.5,9.1,9.4,5.9,"Atendimento excelente, quarto limpo.",2025-05-12
+2019,1433,9.0,7.2,6.9,5.7,Staff prestativo e atencioso.,2025-10-06
+2020,1162,-1,6.2,9.7,9.5,"Pequenos detalhes a melhorar, mas gostei.",2025-09-04
+2021,1274,6.8,7.7,9.1,5.7,"Atendimento excelente, quarto limpo.",2025-03-02
+2022,1284,8.6,9.3,8.5,9.1,"Ótima experiência, voltarei!",2025-07-31
+2023,1159,9.2,8.2,8.0,8.6,"Ótima experiência, voltarei!",2025-11-06
+2024,1114,8.8,7.4,8.7,9.0,"Atendimento excelente, quarto limpo.",2025-06-06
+2025,1339,7.3,,6.6,6.7,,2025-05-27
+2026,1493,7.5,8.0,5.6,6.4,"Atendimento excelente, quarto limpo.",2025-08-11
+2027,1419,6.9,10.0,6.6,8.1,Staff prestativo e atencioso.,2025-07-11
+2028,1252,5.5,8.4,7.8,9.7,Superou as expectativas.,2025-06-11
+2029,1066,6.2,6.5,7.5,7.7,,2025-10-22
+2030,1391,7.2,6.2,8.8,7.7,Hotel muito bem localizado.,2025-04-30
+2031,1488,8.3,9.6,6.3,7.6,Café da manhã variado e delicioso.,2025-04-17
+2032,1346,9.3,6.7,8.4,8.5,"Pequenos detalhes a melhorar, mas gostei.",2025-05-14
+2033,1230,5.8,6.6,6.5,8.7,Staff prestativo e atencioso.,2025-01-27
+2034,1500,8.0,6.6,7.0,8.0,Superou as expectativas.,2025-06-10
+2035,1034,5.9,8.3,9.7,7.5,"Quarto confortável, vista incrível.",2025-09-27
+2036,1194,9.7,8.5,6.3,9.6,Boa relação custo-benefício.,2025-02-22
+2037,1412,8.1,6.8,8.8,6.0,"Quarto confortável, vista incrível.",2025-09-16
+2038,1005,6.1,6.9,6.7,7.5,"Ótima experiência, voltarei!",2025-03-15
+2039,1311,6.5,8.2,9.3,7.2,"Quarto confortável, vista incrível.",2025-08-19
+2040,1153,9.5,6.6,ótimo,5.8,"Ótima experiência, voltarei!",2025-05-09
+2041,1267,6.5,7.0,6.7,9.7,"Ótima experiência, voltarei!",2025-07-11
+2042,1396,6.0,7.5,8.6,9.9,"Quarto confortável, vista incrível.",2025-05-18
+2043,1065,7.4,9.4,9.0,9.6,Boa relação custo-benefício.,2025-10-12
+2044,1462,8.7,9.1,6.7,6.6,"Ótima experiência, voltarei!",2025-02-02
+2045,1386,6.7,8.3,6.7,6.9,,2025-09-03
+2046,1147,6.5,8.5,7.8,8.2,Boa relação custo-benefício.,2025-06-05
+2047,1430,9.0,6.0,5.6,7.7,Superou as expectativas.,2025-04-26
+2048,1043,9.1,8.9,7.8,6.6,"Pequenos detalhes a melhorar, mas gostei.",2025-06-29
+2049,1265,9.6,7.3,6.4,8.2,Boa relação custo-benefício.,2025-09-02
+2050,1097,8.8,7.0,8.2,8.6,"Ótima experiência, voltarei!",2025-04-14
+2051,1471,5.9,6.1,7.3,7.4,,2025-05-29
+2052,1122,5.6,6.0,6.9,6.4,Hotel muito bem localizado.,2025-08-13
+2053,1325,10.0,9.2,9.5,6.3,"Atendimento excelente, quarto limpo.",2025-10-12
+2054,1131,6.8,6.3,7.4,6.9,"Atendimento excelente, quarto limpo.",2025-10-20
+2055,1375,-1,5.9,6.7,7.9,Boa relação custo-benefício.,2025-07-16
+2056,1418,6.2,6.7,6.1,8.9,Hotel muito bem localizado.,2025-07-13
+2057,1031,7.6,6.1,6.8,7.7,"Pequenos detalhes a melhorar, mas gostei.",2025-05-11
+2058,1083,9.2,6.6,6.6,6.3,Boa relação custo-benefício.,2025-09-10
+2059,1015,6.4,7.8,9.1,6.5,"Quarto confortável, vista incrível.",2025-07-29
+2060,1128,7.8,6.5,7.5,6.2,"Ótima experiência, voltarei!",2025-08-02
+2061,1350,8.8,8.8,8.1,5.9,Staff prestativo e atencioso.,2025-06-26
+2062,1308,7.4,6.0,5.5,9.4,Hotel muito bem localizado.,2025-08-18
+2063,1432,6.8,6.0,8.8,8.7,"Atendimento excelente, quarto limpo.",2025-09-04
+2064,1438,8.5,6.4,8.3,7.0,Café da manhã variado e delicioso.,2025-01-15
+2065,1448,7.3,7.8,7.5,9.8,Superou as expectativas.,2025-10-25
+2066,1109,8.3,6.5,6.1,8.7,"Pequenos detalhes a melhorar, mas gostei.",2025-01-27
+2067,1227,9.6,9.3,9.1,8.3,,2025-09-22
+2068,1004,8.7,9.8,8.2,8.0,"Pequenos detalhes a melhorar, mas gostei.",2025-08-07
+2069,1280,6.9,5.6,8.2,6.2,Staff prestativo e atencioso.,2025-08-08
+2070,1244,5.8,6.9,8.5,6.8,"Quarto confortável, vista incrível.",2025-06-08
+2071,1103,8.0,8.6,9.0,6.0,"Pequenos detalhes a melhorar, mas gostei.",2025-02-24
+2072,1388,5.6,9.6,7.4,8.4,"Ótima experiência, voltarei!",2025-08-01
+2073,1294,8.3,7.6,7.4,7.9,Staff prestativo e atencioso.,2025-09-26
+2074,1478,8.2,9.2,7.2,6.0,Café da manhã variado e delicioso.,2025-02-13
+2075,1046,6.1,6.7,5.9,5.5,Staff prestativo e atencioso.,2025-05-05
+2076,1467,8.2,8.2,8.2,9.9,Boa relação custo-benefício.,2025-05-25
+2077,1458,9.5,6.1,9.5,9.3,Boa relação custo-benefício.,2025-07-03
+2078,1186,8.5,9.0,9.8,8.0,"Pequenos detalhes a melhorar, mas gostei.",2025-03-08
+2079,1445,6.1,7.4,8.0,6.7,Staff prestativo e atencioso.,2025-07-06
+2080,1094,7.2,,7.1,9.5,Café da manhã variado e delicioso.,2025-03-03
+2081,1262,8.4,7.7,6.9,9.0,"Ótima experiência, voltarei!",2025-02-14
+2082,1351,7.5,9.1,9.7,8.0,"Atendimento excelente, quarto limpo.",2025-04-21
+2083,1389,9.7,7.1,8.8,9.9,Hotel muito bem localizado.,2025-06-14
+2084,1098,9.2,8.8,9.7,7.5,"Pequenos detalhes a melhorar, mas gostei.",2025-05-06
+2085,1482,7.7,8.7,6.5,5.7,Café da manhã variado e delicioso.,2025-06-17
+2086,1301,9.9,7.4,9.5,9.9,"Pequenos detalhes a melhorar, mas gostei.",2025-03-05
+2087,1093,6.8,8.2,9.0,8.8,"Ótima experiência, voltarei!",2025-06-15
+2088,1074,5.8,5.6,6.6,7.3,"Quarto confortável, vista incrível.",2025-02-02
+2089,1049,8.9,6.8,7.1,9.5,"Ótima experiência, voltarei!",2025-04-21
+2090,1057,8.1,7.2,9.3,8.5,Boa relação custo-benefício.,2025-08-14
+2091,1111,7.8,7.7,5.9,8.7,Boa relação custo-benefício.,2025-01-11
+2092,1401,6.9,5.5,6.3,9.9,Boa relação custo-benefício.,2025-09-06
+2093,1483,6.3,8.5,9.8,9.3,"Atendimento excelente, quarto limpo.",2025-10-01
+2094,1437,9.4,6.8,6.9,7.1,"Atendimento excelente, quarto limpo.",2025-06-01
+2095,1058,7.2,6.2,6.2,7.6,Boa relação custo-benefício.,2025-06-11
+2096,1426,9.3,8.3,8.8,6.3,,2025-11-02
+2097,1080,8.6,5.7,7.3,8.5,"Atendimento excelente, quarto limpo.",2025-11-01
+2098,1323,6.5,6.0,8.6,9.9,Staff prestativo e atencioso.,2025-06-14
+2099,1203,6.9,9.9,8.7,5.9,Café da manhã variado e delicioso.,2025-07-23
+2100,1121,6.2,6.6,7.3,9.8,"Quarto confortável, vista incrível.",2025-09-19
+2101,1283,6.3,8.8,5.9,7.6,Café da manhã variado e delicioso.,2025-07-09
+2102,1490,9.9,7.5,7.8,9.8,"Pequenos detalhes a melhorar, mas gostei.",2025-09-08
+2103,1291,7.4,9.4,7.5,6.7,"Atendimento excelente, quarto limpo.",2025-06-30
+2104,1088,9.7,7.7,7.2,9.3,Superou as expectativas.,2025-08-13
+2105,1310,7.6,7.5,7.8,8.2,Boa relação custo-benefício.,2025-10-01
+2106,1095,7.5,7.6,5.9,5.7,Superou as expectativas.,2025-08-14
+2107,1372,6.0,7.7,7.2,9.5,"Quarto confortável, vista incrível.",2025-01-29
+2108,1314,8.8,6.1,9.0,9.7,"Pequenos detalhes a melhorar, mas gostei.",2025-10-03
+2109,1304,9.8,9.7,10.0,5.5,"Atendimento excelente, quarto limpo.",2025-03-01
+2110,1133,8.9,,6.5,9.0,"Ótima experiência, voltarei!",2025-05-17
+2111,1071,8.7,5.8,5.7,6.4,Café da manhã variado e delicioso.,2025-03-21
+2112,1456,9.7,10.0,6.5,8.9,"Atendimento excelente, quarto limpo.",2025-04-11
+2113,1413,6.7,7.1,7.2,9.6,"Quarto confortável, vista incrível.",2025-07-09
+2114,1487,6.8,8.4,6.0,8.1,"Ótima experiência, voltarei!",2025-02-28
+2115,1400,9.1,7.3,9.1,9.0,"Quarto confortável, vista incrível.",2025-06-08
+2116,1484,6.3,8.5,7.0,6.9,Superou as expectativas.,2025-03-27
+2117,1213,7.7,7.6,6.6,8.2,"Quarto confortável, vista incrível.",2025-04-25
+2118,1307,9.9,5.6,7.4,9.7,"Quarto confortável, vista incrível.",2025-02-05
+2119,1018,9.6,8.7,6.3,7.1,,2025-10-07
+2120,1126,8.5,9.8,9.6,9.5,Boa relação custo-benefício.,2025-06-24
+2121,1082,6.3,9.2,8.5,9.3,"Pequenos detalhes a melhorar, mas gostei.",2025-05-27
+2122,1139,5.9,7.7,9.1,8.6,Hotel muito bem localizado.,2025-02-18
+2123,1390,7.2,6.9,6.5,6.6,"Atendimento excelente, quarto limpo.",2025-07-16
+2124,1318,6.6,8.0,6.3,8.4,"Quarto confortável, vista incrível.",2025-08-04
+2125,1336,6.4,6.7,8.8,6.3,,2025-03-20
+2126,1474,5.6,5.8,5.6,9.9,Superou as expectativas.,2025-08-15
+2127,1315,5.8,6.8,7.1,6.7,"Quarto confortável, vista incrível.",2025-01-18
+2128,1142,5.8,6.6,9.7,9.2,Hotel muito bem localizado.,2025-10-31
+2129,1156,6.3,8.4,8.6,6.9,Staff prestativo e atencioso.,2025-09-24
+2130,1296,6.1,8.3,9.9,9.0,Café da manhã variado e delicioso.,2025-02-03
+2131,1137,9.2,7.5,7.4,9.4,Café da manhã variado e delicioso.,2025-06-10
+2132,1193,9.7,9.5,6.8,5.7,Café da manhã variado e delicioso.,2025-09-27
+2133,1038,9.9,9.0,6.4,8.0,"Ótima experiência, voltarei!",2025-02-14
+2134,1070,5.6,6.4,9.4,7.5,Hotel muito bem localizado.,2025-10-01
+2135,1012,6.3,6.6,6.1,5.8,"Ótima experiência, voltarei!",2025-09-28
+2136,1138,9.4,6.7,9.4,7.2,"Quarto confortável, vista incrível.",2025-04-14
+2137,1266,7.5,8.2,7.4,7.6,"Pequenos detalhes a melhorar, mas gostei.",2025-10-10
+2138,1343,6.9,5.8,6.3,6.9,Boa relação custo-benefício.,2025-08-12
+2139,1406,5.7,6.5,6.4,7.8,"Quarto confortável, vista incrível.",2025-06-12
+2140,1166,8.4,8.3,6.0,9.4,Staff prestativo e atencioso.,2025-09-21
+2141,1087,6.5,5.7,7.7,6.0,"Atendimento excelente, quarto limpo.",2025-04-04
+2142,1117,6.1,8.3,9.3,8.1,Boa relação custo-benefício.,2025-04-18
+2143,1243,9.0,6.4,7.8,9.7,"Ótima experiência, voltarei!",2025-06-26
+2144,1085,8.3,8.6,7.5,6.7,,2025-06-14
+2145,1287,7.8,6.1,9.0,9.9,"Pequenos detalhes a melhorar, mas gostei.",2025-07-06
+2146,1384,9.7,8.9,8.9,9.1,,2025-04-16
+2147,1288,9.5,5.8,9.6,5.8,,2025-05-14
+2148,1045,9.5,7.9,7.9,7.4,Boa relação custo-benefício.,2025-06-08
+2149,1256,6.8,6.3,7.1,9.6,"Ótima experiência, voltarei!",2025-08-13
+2150,1447,8.2,8.9,8.9,7.1,"Atendimento excelente, quarto limpo.",2025-03-04
+2151,1118,9.0,7.1,9.3,9.8,"Quarto confortável, vista incrível.",2025-10-21
+2152,1317,8.5,6.4,6.8,6.5,"Pequenos detalhes a melhorar, mas gostei.",2025-07-28
+2153,1263,6.0,9.1,8.6,6.1,Boa relação custo-benefício.,2025-09-27
+2154,1251,6.7,9.7,9.5,6.5,,2025-05-29
+2155,1273,8.9,7.8,6.8,9.3,"Ótima experiência, voltarei!",2025-10-10
+2156,1374,8.9,8.3,6.7,5.9,Staff prestativo e atencioso.,2025-02-28
+2157,1477,9.3,8.2,7.9,6.4,"Ótima experiência, voltarei!",2025-03-01
+2158,1369,6.0,6.0,9.5,6.9,"Pequenos detalhes a melhorar, mas gostei.",2025-06-30
+2159,1165,9.0,9.4,8.8,10.0,,2025-06-24
+2160,1033,7.5,9.4,8.2,6.6,"Quarto confortável, vista incrível.",2025-08-14
+2161,1278,8.6,5.6,9.8,9.1,Café da manhã variado e delicioso.,2025-07-23
+2162,1157,6.8,8.0,9.1,8.0,"Ótima experiência, voltarei!",2025-06-20
+2163,1341,6.5,9.2,7.6,6.6,"Ótima experiência, voltarei!",2025-02-08
+2164,1030,6.4,5.9,7.2,7.9,,2025-07-22
+2165,1329,6.4,7.4,6.8,6.0,Hotel muito bem localizado.,2025-06-29
+2166,1436,9.0,6.1,9.2,9.7,Hotel muito bem localizado.,2025-07-17
+2167,1255,6.6,6.8,6.4,8.0,"Quarto confortável, vista incrível.",2025-07-27
+2168,1420,7.4,8.2,7.0,6.3,"Atendimento excelente, quarto limpo.",2025-02-14
+2169,1175,6.5,7.3,7.7,9.5,Staff prestativo e atencioso.,2025-06-11
+2170,1305,5.8,7.8,6.5,7.8,"Pequenos detalhes a melhorar, mas gostei.",2025-09-05
+2171,1051,7.5,9.4,7.9,8.5,Hotel muito bem localizado.,2025-08-03
+2172,1261,8.2,8.3,7.7,6.3,Hotel muito bem localizado.,2025-06-14
+2173,1422,7.9,7.2,6.1,6.5,Staff prestativo e atencioso.,2025-07-21
+2174,1110,9.3,8.9,7.1,5.8,,2025-02-01
+2175,1366,7.7,8.9,7.4,7.3,"Atendimento excelente, quarto limpo.",2025-07-15
+2176,1223,9.5,7.9,6.4,7.1,Café da manhã variado e delicioso.,2025-03-06
+2177,1062,6.8,7.2,9.0,9.7,"Atendimento excelente, quarto limpo.",2025-10-31
+2178,1107,5.8,9.9,8.1,5.7,"Quarto confortável, vista incrível.",2025-01-13
+2179,1141,9.2,7.6,9.3,8.8,Superou as expectativas.,2025-07-01
+2180,1220,6.2,6.8,8.4,7.0,Café da manhã variado e delicioso.,2025-03-19
+2181,1399,6.7,7.7,8.1,8.8,"Ótima experiência, voltarei!",2025-09-10
+2182,1271,8.2,5.9,7.9,6.5,Superou as expectativas.,2025-01-17
+2183,1373,6.0,7.8,7.5,8.7,,2025-07-03
+2184,1235,5.8,7.9,7.3,9.2,Boa relação custo-benefício.,2025-04-10
+2185,1337,6.1,6.1,6.7,7.1,Café da manhã variado e delicioso.,2025-02-26
+2186,1075,7.5,9.4,6.9,7.8,"Ótima experiência, voltarei!",2025-05-02
+2187,1129,7.2,8.4,6.1,5.5,"Atendimento excelente, quarto limpo.",2025-09-23
+2188,1002,7.8,7.0,7.5,9.3,Staff prestativo e atencioso.,2025-02-28
+2189,1414,9.5,7.2,6.5,8.7,"Quarto confortável, vista incrível.",2025-02-14
+2190,1257,8.7,8.3,6.1,6.0,"Ótima experiência, voltarei!",2025-06-29
+2191,1229,7.1,5.7,8.6,6.8,Boa relação custo-benefício.,2025-05-24
+2192,1067,8.8,6.6,5.7,5.9,Hotel muito bem localizado.,2025-01-31
+2193,1423,9.4,7.8,6.9,5.9,Superou as expectativas.,2025-04-22
+2194,1404,6.2,6.1,9.8,8.6,"Quarto confortável, vista incrível.",2025-03-25
+2195,1344,6.7,9.3,5.8,9.5,,2025-06-21
+2196,1472,8.6,7.0,8.7,8.1,Superou as expectativas.,2025-07-30
+2197,1468,6.0,5.6,8.2,5.8,Café da manhã variado e delicioso.,2025-03-06
+2198,1292,7.8,7.9,9.5,8.4,Staff prestativo e atencioso.,2025-06-14
+2199,1001,7.5,6.4,8.2,6.9,Superou as expectativas.,2025-09-17
+2200,1379,5.5,8.2,7.0,6.6,Café da manhã variado e delicioso.,2025-03-21
+2201,1258,6.9,5.9,6.1,5.7,"Quarto confortável, vista incrível.",2025-10-22
+2202,1331,7.0,9.3,6.3,8.7,"Atendimento excelente, quarto limpo.",2025-04-21
+2203,1076,5.7,5.7,9.1,7.0,Staff prestativo e atencioso.,2025-09-17
+2204,1204,6.7,7.2,7.9,9.0,Café da manhã variado e delicioso.,2025-07-17
+2205,1189,9.3,6.7,8.5,9.5,Hotel muito bem localizado.,2025-05-21
+2206,1486,9.8,5.5,5.9,8.2,,2025-07-24
+2207,1451,9.6,8.5,6.3,7.9,Hotel muito bem localizado.,2025-01-14
+2208,1183,8.7,6.6,7.5,8.1,"Atendimento excelente, quarto limpo.",2025-08-18
+2209,1290,7.3,7.5,7.2,9.0,Boa relação custo-benefício.,2025-08-26
+2210,1078,7.7,9.8,8.2,7.8,Superou as expectativas.,2025-06-03
+2211,1377,8.4,6.1,6.5,8.8,"Pequenos detalhes a melhorar, mas gostei.",2025-04-27
+2212,1387,9.4,9.8,7.5,6.8,Boa relação custo-benefício.,2025-02-17
+2213,1172,6.4,6.3,5.9,5.7,Staff prestativo e atencioso.,2025-06-28
+2214,1328,8.1,8.9,9.4,9.3,Staff prestativo e atencioso.,2025-01-28
+2215,1200,7.3,9.9,8.2,6.5,"Ótima experiência, voltarei!",2025-01-27
+2216,1007,7.7,7.9,9.3,6.5,Hotel muito bem localizado.,2025-10-17
+2217,1019,6.9,7.9,8.2,6.6,Boa relação custo-benefício.,2025-05-19
+2218,1152,10.0,8.1,7.3,5.9,Superou as expectativas.,2025-08-28
+2219,1060,9.5,6.4,6.4,8.3,"Atendimento excelente, quarto limpo.",2025-06-29
+2220,1354,7.9,9.7,6.5,10.0,"Atendimento excelente, quarto limpo.",2025-05-30
+2221,1246,6.3,8.9,9.8,7.2,Boa relação custo-benefício.,2025-06-24
+2222,1006,5.8,7.9,8.4,7.3,Café da manhã variado e delicioso.,2025-08-31
+2223,1460,7.9,7.5,7.7,6.3,,2025-01-22
+2224,1324,7.1,6.6,8.8,7.4,,2025-04-24
+2225,1091,6.2,6.6,7.4,7.0,,2025-06-11
+2226,1253,7.8,8.8,7.3,7.8,,2025-09-06
